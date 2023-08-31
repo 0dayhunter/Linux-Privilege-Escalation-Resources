@@ -2,10 +2,13 @@
 Compilation of Resources for TCM's Linux Privilege Escalation course
 
 ### General Links
-
 Github: https://github.com/0dayhunter
+
+LinPEAS: https://github.com/0dayhunter/PEASS-ng
  
 LinuxPrivEscArena: https://tryhackme.com/room/linuxprivescarena
+
+Linux exploit suggester: https://github.com/0dayhunter/Linux-exploit-suggester
 
 ### Introduction
 Basic Linux Priv Esc: https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/
@@ -17,11 +20,8 @@ Linux Priv Esc Checklist: https://book.hacktricks.xyz/linux-unix/linux-privilege
 Sushant 747's Guide: https://sushant747.gitbooks.io/total-oscp-guide/privilege_escalation_-_linux.html
 
 ### Exploring Automated Tools
-LinPEAS: https://github.com/0dayhunter/PEASS-ng
 
 LinEnum: https://github.com/rebootuser/LinEnum
-
-Linux exploit suggester: https://github.com/0dayhunter/Linux-exploit-suggester
 
 LinuxPrivChecker: https://github.com/sleventyeleven/linuxprivchecker
 
