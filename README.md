@@ -1,5 +1,5 @@
 # Linux-Privilege-Escalation-Resources
-Compilation of Resources for TCM's Linux Privilege Escalation course
+Compilation of Resources for Linux Privilege Escalation 
 
 ### General Links
 Github: https://github.com/0dayhunter
